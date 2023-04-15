@@ -189,3 +189,61 @@ a {
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
+
+.logo {
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    line-height: 1.19;
+}
+
+.portfolio-header-logo {
+    color: #000000;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    line-height: 1.19;
+}
+
+.hero-button:hover {
+    color: #2196F3;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    color: #2196F3;
+}
+
+.hero-button:focus {
+    color: #2196F3;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    color: #2196F3;
+}
+
+.galery-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+.galery-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
