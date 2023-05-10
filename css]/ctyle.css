@@ -6,6 +6,15 @@ a {
     text-decoration: none;
 }
 
+.contaier {
+    width: 1230px;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .logo {
     color: #2196F3;
     font-family: 'Raleway';
@@ -189,6 +198,7 @@ a {
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
+
 
 .logo {
     color: #2196F3;
